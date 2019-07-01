@@ -16,11 +16,11 @@
     "fibers": "^4.0.0",
     "file-loader": "^1.1.11",
     "sass-loader": "^7.1.0",
-    "webpack": "^3.0.0",
+    "webpack": "^3.12.0",
+    "webpack-cli": "^3.3.5",
     "webpack-dev-server": "^2.4.3"
   },
   "dependencies": {
-    "@material/theme": "^3.0.0",
     "material-components-web": "^3.0.0"
   }
 }
